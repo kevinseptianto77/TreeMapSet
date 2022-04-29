@@ -4,3 +4,5 @@ TreeMap berupa nomor bulan dan nama bulan yang sudah tersusun secara acak dan me
 1. First Entry yang  akan menampilkan nomor dan nama bulan pertama.
 2. Last Entry yang akan menampilkan nomor dan nama bulan terakhir.
 3. Higher Key yang akan menampilkan nomor bulan sesuai dengan yang parameter yang kita isi ( Contoh isi 10 maka akan menampilkan lebih dari 10 berupa 11).
+
+PATH : TreeMapSet/src/com/javatree/TreemapsetExam.java
